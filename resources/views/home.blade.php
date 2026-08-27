@@ -4,7 +4,6 @@
    
 <div class="page-content">
                     <div class="container-fluid">
-                        
                         <!-- start page title -->
                         <div class="row">
                             <div class="col-12">
